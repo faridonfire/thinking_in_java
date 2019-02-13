@@ -1,4 +1,4 @@
-class DataOnly {
+class DataOnly5 {
   int i;
   double d;
   boolean b;
@@ -6,7 +6,7 @@ class DataOnly {
 
 class Exercise5 {
   public static void main(String[] args) {
-    DataOnly dataOnly = new DataOnly();
+    DataOnly5 dataOnly = new DataOnly5();
     dataOnly.i = 10;
     dataOnly.d = 20.5;
     dataOnly.b = false;
